@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* All header tags format the top navigation bar of the website */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +23,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Provides formatting to the text of the navigation links in the header  */
 
 header div {
     padding-top: 15px;
@@ -105,6 +107,8 @@ p {
     max-width: 150px;
 }
 
+/* Provides formating for the 3 main content boxes that float on the left side of the webpage */
+
 .content-box {
     margin-bottom: 20px;
     padding: 50px; 
@@ -122,6 +126,8 @@ p {
     margin-bottom:20px; 
     font-size: 36px;
 }
+
+/* Codes the footer and closing message of webpage */
 
 footer {
     padding: 30px;
