@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Central Image that spans the entire width of the screen */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +75,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Centralized code to apply CSS to all of the benefit types on the right floating box */
 
 .benefits {
     margin-right: 20px;
