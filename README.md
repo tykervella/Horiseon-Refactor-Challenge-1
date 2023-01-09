@@ -1,12 +1,17 @@
 # Horiseon Refactor Challenge 1
 
+![Webpage Preview](./assets/images/preview.png)
+[Deployment Link](https://tykervella.github.io/Horiseonified-/)
+
+---
+
 ## User Story 
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-
+--
 
 ## Acceptance Criteria 
 
@@ -22,32 +27,32 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
+---
 
 ## Description
 
 This Horiseon website is built to show the services they can provide to other companies to help them grow! The website base was provided as a starter code, and I have worked to improve the CSS styling by making it more succinct as well as added semantic elements to the webpage and included alt text for all images. 
 
-
+---
 
 ## Installation
 
 N/A
 
-
+---
 
 ## Usage
 
 To use this webpage, you can read through the topics to see what Horiseon offer their clients. Additional the buttons in the navigation bar of the header can be used to navigate to specific sections of the webpage to reach a desired topic. 
 
-
+---
 
 ## Credits
 
 N/A
 
-
+---
 
 ## License
 
-Please refer to the LICENSE in the repo.
+N/A
